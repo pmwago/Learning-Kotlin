@@ -1,2 +1,2 @@
 # Learning-Kotlin
-This repository will contain all my progress in learning of Kotlin
+This repository contains all my progress in learning of Kotlin
